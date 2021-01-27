@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splashIcon_top_margin">30dp</dimen>
+    <dimen name="splashTitle_bottom_margin">60dp</dimen>
+    <dimen name="splashSubTitle_bottom_margin">10dp</dimen>
+    <dimen name="splashTitle_text_size">50sp</dimen>
+    <dimen name="splashSubTitle_text_size">25sp</dimen>
+    <dimen name="chatList_bottom_margin">10dp</dimen>
+    <dimen name="chatBar_padding">20dp</dimen>
+    <dimen name="chatBar_bottom_margin">10dp</dimen>
+    <dimen name="chatBar_start_margin">10dp</dimen>
+    <dimen name="chatBar_end_margin">2dp</dimen>
+    <dimen name="sendButton_bottom_margin">15dp</dimen>
+    <dimen name="sendButton_start_margin">2dp</dimen>
+    <dimen name="sendButton_end_margin">10dp</dimen>
+    <dimen name="devices_layout_height">40dp</dimen>
+    <dimen name="status_margin_top">10dp</dimen>
+</resources>
